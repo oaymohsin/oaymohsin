@@ -67,5 +67,5 @@ Here are some of my notable public projects:
 
 - 🌐 Portfolio: [mohsinzaheer.com](https://www.mohsinzaheer.com/)
 - 📧 Email: [mohsinxaheer@gmail.com](mailto:mohsinxaheer@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/mohsin-zaheer](https://www.linkedin.com/in/mohsin-zaheer-72b992245/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/mohsin-zaheer-72b992245)
 
