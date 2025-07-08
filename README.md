@@ -51,9 +51,10 @@ Here are some of my notable public projects:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oaymohsin&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaymohsin&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oaymohsin&count_private=true&show_icons=true&theme=tokyonight" alt="Mohsin Zaheer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaymohsin&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
 
 ---
 
