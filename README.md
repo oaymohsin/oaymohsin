@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Zaheer</h1>
-<h3 align="center">Backend Engineer | MEAN Stack Developer | 2+ Years of Experience</h3>
+<h3 align="center"> Full Stack Developer | Backend Focused  | 2+ Years of Experience</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oaymohsin&label=Profile%20views&color=0e75b6&style=flat" alt="oaymohsin" />
@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Backend Engineer with expertise in building scalable and secure APIs using **NestJS**, **Node.js**, and **Express.js**
+- 🚀 Full Stack Engineer with expertise in building scalable and secure APIs using **NestJS**, **Node.js**, **React.js**, and **Express.js**
 - 🧠 Enthusiast in **Generative AI** and tools like **LangChain**, **LangGraph**, and **Vector DBs**
 - ☁️ Experienced with **AWS**, **Docker**, and cloud-native backend solutions
 - 💾 Worked with **MongoDB**, **PostgreSQL**, and scalable database architectures
-- 🧩 Proficient in the **MEAN stack**, especially **Angular** for full-stack development
+- 🧩 Proficient in the **MERN stack**, especially **Angular** for full-stack development
 - 👨‍🏫 Passionate about learning, sharing, and contributing to open source
 
 ---
@@ -33,7 +33,7 @@
 `LangChain` | `LangGraph` | `VectorDBs`
 
 #### 🌐 Frontend
-`Angular` | `HTML` | `TypeScript`
+`Reacct` | `Angular` | `HTML` | `TypeScript`
 
 ---
 
